@@ -5,4 +5,10 @@ class User {
         console.log(this.messge);
     }
 
+    getUserName(){}
+
+    getUserStatus(){}
+
 }
+
+module.exports = User;

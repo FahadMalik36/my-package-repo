@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository":"https://github.com/FahadMalik36/my-package-repo.git",
+  "publishConfig":{
+    "registry": "https://npm.pkg.github.com"
+  },
   "author": "fahad malik",
   "license": "ISC"
 }
