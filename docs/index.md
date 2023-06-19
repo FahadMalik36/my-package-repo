@@ -2,7 +2,7 @@
 
 <p>Thanks for using this demo package! </p>
 
-<h2> Hot to install</h2>
+<h2> How to install</h2>
 
 run:
 
